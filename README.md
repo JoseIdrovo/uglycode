@@ -1,0 +1,1 @@
+Run command "python3 ugly.py main" on python terminal in VSCode when youre in the right directory Also it is not a perfect circle
